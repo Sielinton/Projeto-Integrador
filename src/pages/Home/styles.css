@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+}
+                 
+body{
+
+
+
+
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-color: #a9e4a9b6;
+width: 1400px;
+height: 400px;
+margin: 0px auto;
+}
+
+#dias{
+  margin-left: 30px;
+  font-family: serif;
+ font-size: large;
+
+}
+
+#prof{
+margin: 65px;
+margin-top: 50%;
+text-align: right;
+font-size: 18px;
+color: 	#000000;
+}
+
+#banc{
+  margin: -22px;
+  margin-top: 50%;
+  font-size: 18px;
+  color: 	#000000;
+  }
+
+#met{
+    margin: 90px;
+    margin-top: 50%;
+    text-align: center;
+    font-size: 18px;
+    color: 	#000000;
+  }
+
+
+
+
+.rows{
+  margin: 10px;
+  margin-left: -40px;
+  margin-right: 50px;
+  margin-top: 20px;
+  padding: 0px 30px;
+ 
+  width: 100%;
+}
+
+
+
+
+#space{
+  margin: 0px;
+  margin-right: 40px;
+  text-align: center;
+  font-family: serif;
+  font-size: 18px;
+  margin-left: -10px;
+  padding: 12px 20px;
+ margin-top: 0px;
+
+}
+.rows .inputes{
+  background-color: #FFFFFF;
+  margin: 0px;
+  font-size: 15px;
+  color: #000000;
+  padding-top: 0px;
+  border-width: 2px;
+  border-color: #000000;
+  border-spacing: 0px;
+  margin-left: 5%;
+  margin-top: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 0px;
+  text-align: right;
+  width: 100px;
+
+  }
+
+  #tabeladias{
+    width: 50%;
+    display: inline-block;
+    margin: 0px;
+  }
+
+
+
+#tabeladias, #barchart{
+  display: inline-block;
+ 
+}
+
+#dias{
+    display: inline-block;
+    width: 80px;
+}
+
+
+#barchart{
+
+margin-right: 0%;
+margin-left: 30;
+  display: inline-block;
+  width: 50%;
+  height: 50%;
+}
+
+
+.container-fluid{
+  background-color: #91d3c2;
+  color: 	#000000;
+  margin: 0px;
+  }
+
+
+
+.indicadores{
+
+  font-family: serif;
+  margin-left: 70px;
+  margin-top: 20px;
+  font-size: 23px;
+color: 	#000000;
+}
+
+.inputts{
+  padding: 0px;
+  margin: 0px;
+  width: 120px;
+  ;
+  
+}
+
